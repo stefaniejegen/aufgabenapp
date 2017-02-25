@@ -1,0 +1,17 @@
+[{
+  "marke":"Volvo",
+  "km":30,
+  "jahrgang": 2011
+},
+
+{
+  "marke":"Audi",
+  "km":20000,
+  "jahrgang": 2016
+},
+  {
+  "marke":"Seat",
+  "km":100000,
+  "jahrgang": 2013
+}]
+

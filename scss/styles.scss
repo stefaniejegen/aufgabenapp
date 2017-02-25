@@ -1,0 +1,22 @@
+$fieldheight : 40px;
+$maincolor : grey;
+
+h1 {
+  font-size: 20px;
+  color: $maincolor;
+}
+
+#wrapper {
+
+}
+
+#newTaskInput {
+  font-size: 12px;
+  height: $fieldheight;
+  width: 200px;
+}
+
+.addTask {
+  height: $fieldheight;
+}
+
